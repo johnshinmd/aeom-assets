@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="144" viewBox="0 0 600 144">
+<g fill="none" stroke="#fff" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter">
+  <!-- stylized A -->
+  <path d="M34 105 L72 39 L110 105"/>
+  <!-- E -->
+  <path d="M174 39 V105 M174 39 H220 M174 72 H210 M174 105 H220"/>
+  <!-- O -->
+  <ellipse cx="328" cy="72" rx="43" ry="36"/>
+  <!-- M -->
+  <path d="M430 105 V39 L472 98 L514 39 V105"/>
+</g>
+</svg>
